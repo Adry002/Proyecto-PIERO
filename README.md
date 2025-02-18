@@ -1,5 +1,5 @@
 # *Proyecto-PIERO*
-Proyecto desarrollado en la asignatura de regulación automatica en el grado de electrónica industrial.
+Proyecto desarrollado en la asignatura de regulación automatica en el grado de electrónica industrial.               
 Este es mi repositorio personal donde muestro el proceso de aprendizaje a lo largo del curso con mi piero.
 ## *ORGANIZACIÓN DEL REPOSITORIO*
 Mi trabajo se va a dividir en varios "Hitos" los cuales se irán organizando en carpetas con toda su información dentro.
@@ -14,12 +14,12 @@ Este sería mi Piero con el que trabajare hasta final de curso
 ## *MONTAJE PIERO*
 *MOTORES* - Les tuve que fabricar un soporte especial para que encajaran correctamente
 
-![Motores](https://github.com/user-attachments/assets/145486042/22992ac2-2194-470d-aa97-b475cc03af09)
+![Motores](https://github.com/user-attachments/assets/67df51bb-4169-45a1-bf66-cffff3ba74c3)
 
 *PARTE INFERIOR* - Mi caja era bastante endeble entonces busque algo para endurecerla
 
-![Parte abajo](https://github.com/user-attachments/assets/145486042/782b938f-1219-41b7-9742-331dbef829ab)
+![Parte inferior](https://github.com/user-attachments/assets/f87e314a-f80b-4e00-b477-db676aab6ccf)
 
 *INTERIOR* - Así he organizado la parte interior con todas sus conexiones
 
-![Por dentro](https://github.com/user-attachments/assets/145486042/fda9029a-b7b5-461c-819b-67c691972ac0)
+![Interior](https://github.com/user-attachments/assets/4b9052b0-2d37-4489-b841-b956ca017e7f)
