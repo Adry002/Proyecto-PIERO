@@ -1,3 +1,4 @@
 ## _VIDEO LEDS_
 
-https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/bfa0d939-1b92-42d6-af7d-d5b51c4732eb
+https://github.com/user-attachments/assets/3c7cb24d-003a-4f3a-a8d2-59647568159e
+
