@@ -23,7 +23,9 @@ Bloque "PID controller" sintonizado para la rueda derecha
 
 ## Video corrección de trayectoria
 
-https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/3d2e7d8c-4bfe-4461-8774-259f5c0f9ffe
+
+https://github.com/user-attachments/assets/34dd24d5-82be-4d75-9dbd-e75981fb6e87
+
 
 # Test Cinemático
 A continución mostraremos el modelo test cinemático formado por 4 subsistemas que son "MCI" "MCD" "Odometría" y "PieroControladoS".Este modelo lo usaremos para hacer un circulo en 10 segundos.
