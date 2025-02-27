@@ -1,4 +1,3 @@
 
-
-https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/f6ace147-adfb-43e1-8365-0e3337e82a6f
+https://github.com/user-attachments/assets/e1f5c251-08f9-44bc-8b1e-c13eb9ae25b7
 
