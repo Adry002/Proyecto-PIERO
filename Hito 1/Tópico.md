@@ -26,4 +26,7 @@ Hardware
 - Scope
 - Display
 
-https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica-ra2023grupo05/assets/145486042/dce2ecac-2bde-405b-b0b2-9b6344aa70de
+
+https://github.com/user-attachments/assets/f98bfd60-9648-486f-ba29-0d039db81f8d
+
+
