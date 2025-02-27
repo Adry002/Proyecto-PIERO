@@ -17,12 +17,14 @@ En un sistema SISO (única entrada,única salida), la función de transferencias
 proceso de linelización (modelo lineal ó incremental);Aplicando transformadas de laplace(modelo lineal ó incremental);
 diagramas de bloques(serie,paralelo,retroalimentado),el retroalimentado tiene una condición de diseño.
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/6931f0ca-8245-47f0-9365-511e6532701a)
+![topico1](https://github.com/user-attachments/assets/4e830216-3205-4020-929e-5d2c8e401383)
+
+
 
 ## Función de transferencia sistema discreto
 Se utiliza la transformada Z, que viene definida por la siguiente fórmula.
+![topico2](https://github.com/user-attachments/assets/79c8608c-321b-4079-93d5-8d0671bad18d)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/20648ee0-0e07-4df3-bd7b-d8a1f58edc3a)
 
 ## Método Ruth-Hurwitz(estabilidad de un sistema de tiempo discreto lineal)
 El teorema proporciona un criterio capaz de determinar en cuál semiplano (izquierdo o derecho) del plano complejo están 
