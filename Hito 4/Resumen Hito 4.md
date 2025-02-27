@@ -3,45 +3,47 @@ En este Hito 4 trabajaremos con variables discretas en vez de continuas para ell
 a partir de estos cambios crear nuevos subsistemas. Este hito se podría decir que está compuesto por 4 partes:
 # H41_1 metro
 Para esta parte debemos de crear un subsistema que llamaremos "PieroContolado1mZ" compuesto por "PieroAdryZ" y "ControladoPos1mZ"
-
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/cbeaffe7-dd29-4064-9e3c-becda5c2239b)
+![resumen1](https://github.com/user-attachments/assets/9a975c5a-d29c-4593-88ae-dcfd0cfe751d)
 
 ## PieroContolado1mZ
+![resumen2](https://github.com/user-attachments/assets/483cb51c-0487-498b-8f19-5c6064c8d6eb)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/fb50a490-09d7-444b-abc7-782a0b83850c)
 
 ## PieroAdryZ
 PieroAdryZ esta formado por el subsistema "PieroAdry" que hemos estado usando desde el Hito 1 y por uno nuevo "PieroAdry_modelZ"
 que tiene un cambio, y es nada más y nada menos que las nuevas funcines de transferencia para los valores en discreta
+![resumen3](https://github.com/user-attachments/assets/f4845abc-f30d-4f91-a741-62eba1f87e46)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/53e0f358-5f98-4da4-a865-2d3676e2d19f)
+
 
 Para  __PieroAdry_modelZ__ como he dicho hay que buscar sus nuevas funciones de transferencias, y la verdad es que es muy sencillo simplemente
 tenemos realizar el mismo proceso que hicimos para buscar las funciones de tranferencia en continua
+![resumen4](https://github.com/user-attachments/assets/4b467a11-94cc-44aa-88bd-b514f2a1c30e)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/af96e011-c728-4884-9985-4997e0841c95)
+
 
 Una vez hemos comparado en el _Sistem identification_ cojemos la función con polos y ceros que tenga el menor error. 
 Función de transferencia para la rueda derecha, como se ha dicho ya en varias ocasiones, esto es una captura de la función
 de transferencia para verla completa simplemente en la carpeta "Datos" de este repositorio la encontraras como "TFdz21.mat"
+![resumen5](https://github.com/user-attachments/assets/28a8455b-1cc0-408d-aa00-36358d6e9934)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/234b236a-3f36-495c-b0d3-7d47de73bf24)
+
 
 captura de la función de transferencia  de la rueda izquierdapara verla completa simplemente en la carpeta "Datos" de
 este repositorio la encontraras como "TFiz20.mat"
+![resumen6](https://github.com/user-attachments/assets/1760f56d-8935-4f96-adc2-884cd8e1c594)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/6ff5dbe5-8b39-4aef-b4f2-9bc2716ea111)
+![resumen7](https://github.com/user-attachments/assets/f4323594-7d65-4085-b2bd-854472073238)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/a6015d16-c6e5-4d0b-9b7e-22e5ac58500b)
 
 ## ControladorPos1mZ
 El controlador esta formado po dos bloques "PID-controller" el cual debemos poner en discreta y sintonizarlos correctamente con el boton tune
+![resumen8](https://github.com/user-attachments/assets/1a2a9024-ad09-45d4-9f30-ed537c6f1993)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/7b0f42c6-487f-4cce-b845-4d7d34cbce16)
 
 Cambiamos a discreto
+![resumen9](https://github.com/user-attachments/assets/4b77c89d-8210-4441-87f5-b31b4b7f11a9)
 
-![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/1190d8d3-9f8b-4380-bb01-2520e0207ea8)
 
 "PID-controller" sintonizado para la rueda izquierda
 ![image](https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/e1b7e558-4dfb-4c2c-bfa8-90354f5d2df1)
