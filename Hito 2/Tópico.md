@@ -23,4 +23,6 @@ de entrada de Simulink.
 -Velocidad                                        
 -Controlador PI
 
-https://github.com/Escuela-de-Ingenierias-Industriales/RegulacionAutomatica23-Adry009/assets/145486042/93b0962d-9ed7-4a6f-840c-38a8cc730b25
+
+https://github.com/user-attachments/assets/f4d2829a-7091-4988-b168-f9259db9ebba
+
